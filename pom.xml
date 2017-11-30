@@ -7,6 +7,7 @@
     <groupId>cn.univyz</groupId>
     <artifactId>univyz-plugin-rest</artifactId>
     <version>1.0.0</version>
+    <!-- REST插件 -->
 
     <name>univyz</name>
     <description>univyz-plugin-rest is a rest plugin.</description>
@@ -33,7 +34,6 @@
         <developerConnection>scm:git:https://github.com/bfylu/univyz-plugin-rest.git</developerConnection>
         <url>https://github.com/bfylu/univyz-plugin-rest.git</url>
     </scm>
-
     <profiles>
         <profile>
             <id>release</id>
